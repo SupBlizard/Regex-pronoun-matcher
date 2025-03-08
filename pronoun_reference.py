@@ -1,3 +1,5 @@
+# Taken from https://gist.github.com/evansims/1121ab1ff255bcd79532 (Super useful!!)
+
 pronouns = {
     "nominative": {
         "neutral": 'they',
