@@ -6,4 +6,4 @@ Because a friend of mine had regex `(the[my]|h(im|e(|r))|she)` as their discord 
 
 -------
 
-(Credits to [@evansims](https://www.github.com/evansims) for his super useful [gist](https://gist.github.com/evansims/1121ab1ff255bcd79532))
+(Credits to [@evansims](https://www.github.com/evansims) for this super useful [gist](https://gist.github.com/evansims/1121ab1ff255bcd79532))
